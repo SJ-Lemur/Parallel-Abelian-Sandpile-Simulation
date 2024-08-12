@@ -13,3 +13,6 @@ Configurable grid size and initial conditions
 Visual representation of the sandpile's evolution
 Requirements
 Java 8 or higher
+
+
+THE PROVIDED ZIP FILES CONTAINS THE ENTIRE SET OF THE PROJECT
